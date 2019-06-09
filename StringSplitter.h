@@ -12,7 +12,7 @@ public:
 
 	//Accepts a string and a delimiter. Will use items_found to return the number
 	//of items found as well as an array of strings where each element is a piece of
-	//the original string.
+	//the original string. 
 	static vector<string> split(string text, string delimiter)
 	{
 		//vectors are dynamically expanding arrays
